@@ -421,302 +421,424 @@ export const data = [
   },
   {
       "id": 61,
-      "question": "Wiązanie jonowe polega na utworzeniu wspólnej pary elektronów.",
+      "icon": "chemicalbond",
+      "chapter": "Wiązanie chemiczne",
+      "question": "Wiązanie jonowe polega na utworzeniu wspólnej pary elektronów",
       "answer": false
   },
   {
       "id": 62,
-      "question": "Wiązanie atomowe polega na utworzeniu wspólnej pary elektronów.",
+      "icon": "chemicalbond",
+      "chapter": "Wiązanie chemiczne",
+      "question": "Wiązanie atomowe polega na utworzeniu wspólnej pary elektronów",
       "answer": true
   },
   {
       "id": 63,
-      "question": "Wiązanie atomowe może się tworzyć między atomami tego samego pierwiastka.",
-      "answer": false
-  },
-  {
-      "id": 64,
-      "question": "Wiązanie koordynacyjne może się tworzyć między atomami tego samego pierwiastka.",
+      "icon": "chemicalbond",
+      "chapter": "Wiązanie chemiczne",
+      "question": "Wiązanie atomowe może się tworzyć między atomami tego samego pierwiastka",
       "answer": true
   },
   {
+      "id": 64,
+      "icon": "chemicalbond",
+      "chapter": "Wiązanie chemiczne",
+      "question": "Wiązanie koordynacyjne może się tworzyć między atomami tego samego pierwiastka",
+      "answer": false
+  },
+  {
       "id": 65,
-      "question": "Wiązanie metaliczne powstaje między atomami nieznacznie różniącymi się elektroujemnością.",
+      "icon": "chemicalbond",
+      "chapter": "Wiązanie chemiczne",
+      "question": "Wiązanie metaliczne powstaje między atomami nieznacznie różniącymi się elektroujemnością",
       "answer": true
   },
   {
       "id": 66,
-      "question": "Wiązanie metaliczne powstaje między atomami znacznie różniącymi się elektroujemnością.",
+      "icon": "chemicalbond",
+      "chapter": "Wiązanie chemiczne",
+      "question": "Wiązanie metaliczne powstaje między atomami znacznie różniącymi się elektroujemnością",
       "answer": false
   },
   {
       "id": 67,
-      "question": "Wiązanie koordynacyjne jest szczególnym przypadkiem wiązania jonowego.",
+      "icon": "chemicalbond",
+      "chapter": "Wiązanie chemiczne",
+      "question": "Wiązanie koordynacyjne jest szczególnym przypadkiem wiązania jonowego",
       "answer": false
   },
   {
       "id": 68,
-      "question": "Wiązanie wodorowe jest szczególnym przypadkiem wiązania koordynacyjnego.",
-      "answer": false
-  },
-  {
-      "id": 69,
-      "question": "Wiązanie podwójne jest krótsze od pojedynczego.",
-      "answer": false
-  },
-  {
-      "id": 70,
-      "question": "Wiązanie podwójne jest dłuższe od pojedynczego.",
+      "icon": "chemicalbond",
+      "chapter": "Wiązanie chemiczne",
+      "question": "Wiązanie wodorowe jest szczególnym przypadkiem wiązania koordynacyjnego",
       "answer": true
   },
   {
+      "id": 69,
+      "icon": "chemicalbond",
+      "chapter": "Wiązanie chemiczne",
+      "question": "Wiązanie podwójne jest krótsze od pojedynczego",
+      "answer": true
+  },
+  {
+      "id": 70,
+      "icon": "chemicalbond",
+      "chapter": "Wiązanie chemiczne",
+      "question": "Wiązanie podwójne jest dłuższe od pojedynczego",
+      "answer": false
+  },
+  {
       "id": 71,
-      "question": "Wiązanie potrójne jest silniejsze od podwójnego.",
+      "icon": "chemicalbond",
+      "chapter": "Wiązanie chemiczne",
+      "question": "Wiązanie potrójne jest silniejsze od podwójnego",
       "answer": true
   },
   {
       "id": 72,
-      "question": "Wiązanie podwójne jest silniejsze od potrójnego.",
+      "icon": "chemicalbond",
+      "chapter": "Wiązanie chemiczne",
+      "question": "Wiązanie podwójne jest silniejsze od potrójnego",
       "answer": false
   },
   {
       "id": 73,
-      "question": "Kryształy jonowe przewodzą prąd w stanie stałym.",
+      "icon": "chemicalbond",
+      "chapter": "Wiązanie chemiczne",
+      "question": "Kryształy jonowe przewodzą prąd w stanie stałym",
       "answer": false
   },
   {
       "id": 74,
-      "question": "Kryształy jonowe są w temp. pokojowej izolatorami prądu.",
+      "icon": "chemicalbond",
+      "chapter": "Wiązanie chemiczne",
+      "question": "Kryształy jonowe są w temp. pokojowej izolatorami prądu",
       "answer": true
   },
   {
       "id": 75,
-      "question": "W cząsteczce etanu występuje hybrydyzacja sp3.",
+      "icon": "chemicalbond",
+      "chapter": "Wiązanie chemiczne",
+      "question": "W cząsteczce etanu występuje hybrydyzacja sp3",
       "answer": true
   },
   {
       "id": 76,
-      "question": "W cząsteczce etanu występuje hybrydyzacja sp2.",
+      "icon": "chemicalbond",
+      "chapter": "Wiązanie chemiczne",
+      "question": "W cząsteczce etanu występuje hybrydyzacja sp2",
       "answer": false
   },
   {
       "id": 77,
-      "question": "W cząsteczce etenu występuje hybrydyzacja sp2.",
+      "icon": "chemicalbond",
+      "chapter": "Wiązanie chemiczne",
+      "question": "W cząsteczce etenu występuje hybrydyzacja sp2",
       "answer": true
   },
   {
       "id": 78,
-      "question": "W cząsteczce etenu występuje hybrydyzacja sp3.",
+      "icon": "chemicalbond",
+      "chapter": "Wiązanie chemiczne",
+      "question": "W cząsteczce etenu występuje hybrydyzacja sp3",
       "answer": false
   },
   {
       "id": 79,
-      "question": "W cząsteczce etynu występuje hybrydyzacja sp3.",
-      "answer": true
-  },
-  {
-      "id": 80,
-      "question": "W cząsteczce etynu występuje hybrydyzacja sp.",
+      "icon": "chemicalbond",
+      "chapter": "Wiązanie chemiczne",
+      "question": "W cząsteczce etynu występuje hybrydyzacja sp3",
       "answer": false
   },
   {
+      "id": 80,
+      "icon": "chemicalbond",
+      "chapter": "Wiązanie chemiczne",
+      "question": "W cząsteczce etynu występuje hybrydyzacja sp",
+      "answer": true
+  },
+  {
       "id": 81,
-      "question": "W cząsteczce wody kąt H-O-H = 90o.",
+      "icon": "chemicalbond",
+      "chapter": "Wiązanie chemiczne",
+      "question": "W cząsteczce wody kąt H-O-H = 90°",
       "answer": false
   },
   {
       "id": 82,
-      "question": "W cząsteczce wody kąt H-O-H > 100o.",
+      "icon": "chemicalbond",
+      "chapter": "Wiązanie chemiczne",
+      "question": "W cząsteczce wody kąt H-O-H > 100°",
       "answer": true
   },
   {
       "id": 83,
-      "question": "Cząsteczka metanu jest płaska (atomy H tworzą kwadrat).",
+      "icon": "chemicalbond",
+      "chapter": "Wiązanie chemiczne",
+      "question": "Cząsteczka metanu jest płaska (atomy H tworzą kwadrat)",
       "answer": false
   },
   {
       "id": 84,
-      "question": "Cząsteczka metanu ma kształt czworościanu foremnego.",
+      "icon": "chemicalbond",
+      "chapter": "Wiązanie chemiczne",
+      "question": "Cząsteczka metanu ma kształt czworościanu foremnego",
       "answer": true
   },
   {
       "id": 85,
-      "question": "Łańcuchy węglowodorów nasyconych mają kształt linii łamanej.",
+      "icon": "chemicalbond",
+      "chapter": "Wiązanie chemiczne",
+      "question": "Łańcuchy węglowodorów nasyconych mają kształt linii łamanej",
       "answer": true
   },
   {
       "id": 86,
-      "question": "Kryształy gazów szlachetnych tworzą się dzięki wiązaniu atomowemu.",
+      "icon": "chemicalbond",
+      "chapter": "Wiązanie chemiczne",
+      "question": "Kryształy gazów szlachetnych tworzą się dzięki wiązaniu atomowemu",
       "answer": false
   },
   {
       "id": 87,
-      "question": "W krysztale diamentu i grafitu występuje wiązanie atomowe.",
+      "icon": "chemicalbond",
+      "chapter": "Wiązanie chemiczne",
+      "question": "W krysztale diamentu i grafitu występuje wiązanie atomowe",
       "answer": true
   },
   {
       "id": 88,
-      "question": "Wiązanie metaliczne występuje tylko w czystych pierwiastkach.",
+      "icon": "chemicalbond",
+      "chapter": "Wiązanie chemiczne",
+      "question": "Wiązanie metaliczne występuje tylko w czystych pierwiastkach",
       "answer": false
   },
   {
       "id": 89,
-      "question": "Siły Van der Waalsa są słabsze niż wiązanie jonowe.",
+      "icon": "chemicalbond",
+      "chapter": "Wiązanie chemiczne",
+      "question": "Siły Van der Waalsa są słabsze niż wiązanie jonowe",
       "answer": true
   },
   {
       "id": 90,
-      "question": "Kryształy jonowe mają wysokie temp. wrzenia.",
-      "answer": false
+      "icon": "chemicalbond",
+      "chapter": "Wiązanie chemiczne",
+      "question": "Kryształy jonowe mają wysokie temp. wrzenia",
+      "answer": true
   },
+
+  // --- //
   {
       "id": 91,
-      "question": "W NH4Cl występuje wiązanie koordynacyjne",
-      "answer": false
+      "icon": "cbtypes",
+      "chapter": "Typy wiązań, typy reakcji",
+      "question": "W NH₄Cl występuje wiązanie koordynacyjne",
+      "answer": true
   },
   {
       "id": 92,
-      "question": "W NH3 występuje wiązanie jonowe.",
-      "answer": true
+      "icon": "cbtypes",
+      "chapter": "Typy wiązań, typy reakcji",
+      "question": "W NH₃ występuje wiązanie jonowe",
+      "answer": false
   },
   {
       "id": 93,
-      "question": "W AlCl3 występuje wiązanie jonowe.",
-      "answer": true
+      "icon": "cbtypes",
+      "chapter": "Typy wiązań, typy reakcji",
+      "question": "W AlCl₃ występuje wiązanie jonowe",
+      "answer": false
   },
   {
       "id": 94,
-      "question": "W AlCl3 występuje wiązanie atomowe spolaryzowane.",
-      "answer": false
-  },
-  {
-      "id": 95,
-      "question": "W SnCl4 występuje wiązanie koordynacyjne",
+      "icon": "cbtypes",
+      "chapter": "Typy wiązań, typy reakcji",
+      "question": "W AlCl₃ występuje wiązanie atomowe spolaryzowane",
       "answer": true
   },
   {
-      "id": 96,
-      "question": "W SnCl4 występuje wiązanie atomowe spolaryzowane.",
+      "id": 95,
+      "icon": "cbtypes",
+      "chapter": "Typy wiązań, typy reakcji",
+      "question": "W SnCl₄ występuje wiązanie koordynacyjne",
       "answer": false
   },
   {
+      "id": 96,
+      "icon": "cbtypes",
+      "chapter": "Typy wiązań, typy reakcji",
+      "question": "W SnCl₄ występuje wiązanie atomowe spolaryzowane",
+      "answer": true
+  },
+  {
       "id": 97,
-      "question": "W MgCl2 występuje wiązanie jonowe.",
+      "icon": "cbtypes",
+      "chapter": "Typy wiązań, typy reakcji",
+      "question": "W MgCl₂ występuje wiązanie jonowe",
       "answer": true
   },
   {
       "id": 98,
-      "question": "W MgCl2 występuje wiązanie atomowe spolaryzowane.",
+      "icon": "cbtypes",
+      "chapter": "Typy wiązań, typy reakcji",
+      "question": "W MgCl₂ występuje wiązanie atomowe spolaryzowane",
       "answer": false
   },
   {
       "id": 99,
-      "question": "W CH4 występuje wiązanie atomowe.",
+      "icon": "cbtypes",
+      "chapter": "Typy wiązań, typy reakcji",
+      "question": "W CH₄ występuje wiązanie atomowe.",
       "answer": true
   },
   {
       "id": 100,
-      "question": "W CH4 występuje wiązanie jonowe.",
+      "icon": "cbtypes",
+      "chapter": "Typy wiązań, typy reakcji",
+      "question": "W CH₄ występuje wiązanie jonowe",
       "answer": false
   },
   {
       "id": 101,
-      "question": "W SO2 występuje wiązanie jonowe.",
+      "icon": "cbtypes",
+      "chapter": "Typy wiązań, typy reakcji",
+      "question": "W SO₂ występuje wiązanie jonowe",
       "answer": false
   },
   {
       "id": 102,
-      "question": "W SO2 występuje wiązanie atomowe.",
+      "icon": "cbtypes",
+      "chapter": "Typy wiązań, typy reakcji",
+      "question": "W SO₂ występuje wiązanie atomowe",
       "answer": true
   },
   {
       "id": 103,
-      "question": "W Al2O3 występuje wiązanie atomowe.",
+      "icon": "cbtypes",
+      "chapter": "Typy wiązań, typy reakcji",
+      "question": "W Al₂O₃ występuje wiązanie atomowe",
       "answer": false
   },
   {
       "id": 104,
-      "question": "W Al2O3 występuje wiązanie jonowe.",
+      "icon": "cbtypes",
+      "chapter": "Typy wiązań, typy reakcji",
+      "question": "W Al₂O₃ występuje wiązanie jonowe",
       "answer": true
   },
   {
       "id": 105,
-      "question": "W Na2O występuje wiązanie jonowe.",
+      "icon": "cbtypes",
+      "chapter": "Typy wiązań, typy reakcji",
+      "question": "C + O₂ = CO₂ to reakcja egzotermiczna",
       "answer": true
   },
   {
       "id": 106,
-      "question": "W Na2O występuje wiązanie kowalencyjne.",
+      "icon": "cbtypes",
+      "chapter": "Typy wiązań, typy reakcji",
+      "question": "C + O₂ = CO₂ to reakcja endotermiczna",
       "answer": false
   },
   {
       "id": 107,
-      "question": "Wiązania międzycząsteczkowe decydują o temp. topnienia i wrzenia.",
-      "answer": true
+      "icon": "cbtypes",
+      "chapter": "Typy wiązań, typy reakcji",
+      "question": "CaO + CO₂ = CaCO₃ to reakcja endotermiczna",
+      "answer": false
   },
   {
       "id": 108,
-      "question": "Wiązania międzycząsteczkowe nie mają wpływu na temp. topnienia i wrzenia.",
-      "answer": false
+      "icon": "cbtypes",
+      "chapter": "Typy wiązań, typy reakcji",
+      "question": "CaO + CO₂ = CaCO₃ to reakcja egzotermiczna",
+      "answer": true
   },
   {
       "id": 109,
-      "question": "Siły Van der Waalsa to rodzaj wiązań międzycząsteczkowych.",
-      "answer": true
+      "icon": "cbtypes",
+      "chapter": "Typy wiązań, typy reakcji",
+      "question": "n >C=C< = (-C-C-)ₙ to reakcja polikondensacji",
+      "answer": false
   },
   {
       "id": 110,
-      "question": "Wiązania kowalencyjne zawsze są niespolaryzowane.",
-      "answer": false
-  },
-  {
-      "id": 111,
-      "question": "Wiązania kowalencyjne mogą być spolaryzowane.",
+      "icon": "cbtypes",
+      "chapter": "Typy wiązań, typy reakcji",
+      "question": "n >C=C< = (-C-C-)ₙ to reakcja polimeryzacji",
       "answer": true
   },
   {
-      "id": 112,
-      "question": "Wiązania kowalencyjne zawsze są polarno-kowalencyjne.",
+      "id": 111,
+      "icon": "cbtypes",
+      "chapter": "Typy wiązań, typy reakcji",
+      "question": "Zn + H₂SO₄ = ZnSO₄ + H₂ to reakcja syntezy",
       "answer": false
   },
   {
+      "id": 112,
+      "icon": "cbtypes",
+      "chapter": "Typy wiązań, typy reakcji",
+      "question": "Zn + H₂SO₄ = ZnSO₄ + H₂ to reakcja utleniania i redukcji",
+      "answer": true
+  },
+  {
       "id": 113,
-      "question": "Wiązania jonowe zawsze są spolaryzowane.",
+      "icon": "cbtypes",
+      "chapter": "Typy wiązań, typy reakcji",
+      "question": "BaCl₂ + H₂SO₄ = BaSO₄ + 2HCL to reakcja utleniania i redukcji",
       "answer": false
   },
   {
       "id": 114,
-      "question": "Wiązania jonowe mogą być niespolaryzowane.",
+      "icon": "cbtypes",
+      "chapter": "Typy wiązań, typy reakcji",
+      "question": "BaCl₂ + H₂SO₄ = BaSO₄ + 2HCl to reakcja podwójnej wymiany",
       "answer": true
   },
   {
       "id": 115,
-      "question": "Woda to związek polarny.",
+      "icon": "cbtypes",
+      "chapter": "Typy wiązań, typy reakcji",
+      "question": "H₂O = H₂ + ½O₂ to reakcja endotermiczna",
       "answer": true
   },
   {
       "id": 116,
-      "question": "Woda to związek niespolaryzowany.",
-      "answer": false
-  },
-  {
-      "id": 117,
-      "question": "Siarka to pierwiastek polarny.",
+      "icon": "cbtypes",
+      "chapter": "Typy wiązań, typy reakcji",
+      "question": "H₂O = H₂ + ½O₂ to reakcja utleniania i redukcji",
       "answer": true
   },
   {
+      "id": 117,
+      "icon": "cbtypes",
+      "chapter": "Typy wiązań, typy reakcji",
+      "question": "H₂O = H₂ + ½O₂ to reakcja egzotermiczna",
+      "answer": false
+  },
+  {
       "id": 118,
-      "question": "Siarka to pierwiastek niespolaryzowany.",
+      "icon": "cbtypes",
+      "chapter": "Typy wiązań, typy reakcji",
+      "question": "H₂O = H⁺ + OH⁻ to reakcja egzotermiczna",
       "answer": false
   },
   {
       "id": 119,
-      "question": "Molekuła dwutlenku węgla jest polarna.",
+      "icon": "cbtypes",
+      "chapter": "Typy wiązań, typy reakcji",
+      "question": "H₂O = H⁺ + OH⁻ to reakcja zobojętniania",
       "answer": false
   },
   {
       "id": 120,
-      "question": "Molekuła dwutlenku węgla jest niespolaryzowana.",
+      "icon": "cbtypes",
+      "chapter": "Typy wiązań, typy reakcji",
+      "question": "NH₃ + HCl = NH₄Cl to reakcja zobojętniania",
       "answer": true
   }
 ];

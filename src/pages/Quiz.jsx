@@ -41,11 +41,6 @@ function Quiz() {
 
     useEffect(() => {
         generateQuestions();
-        console.log("Hello world!");
-
-        useEffect(() => {
-            console.log("Hello world v2!");
-        })
     }, []);
 
     useEffect(() => {
@@ -151,10 +146,11 @@ function Quiz() {
                        <div className="fs-wrapper">
                             <img src={logo} width={200}/>
                             <div className="fs-text">
-                            WYNIK: <span style={{color: score >= 13 ? "green" : "red"}} > {score >= 13 ? "Pozytywny" : "Negatywny"}</span>
+                                <div className='fs-text-subtext'>Wynik</div>
+                                <div className='fs-text-st' style={{color: score >= 13 ? "#17a54e" : "#cd202f"}} > {score >= 13 ? "Pozytywny" : "Negatywny"}</div>
                             </div>
                             <div className="fs-subtext">
-                                Zdobyłeś/aś <span style={{fontWeight: 500, color: "#2097bb"}}> {score} </span> punktów! <br />
+                                Zdobyłeś <span style={{fontWeight: 500, color: "#2097bb"}}> {score} </span> punktów! <br />
                                 Ukończyłeś test w czasie <Timer stop={true} color={true} seconds={seconds}/>
                             </div>
                             <div className="try-again-container">

@@ -200,12 +200,11 @@ body {
 }
 
 .try-again-container button {
-  width: 200px;
+  width: 280px;
   height: 60px;
   border-radius: 10px;
-  background-color: black;
+  background-color: #000;
   color: white;
-  border: 0;
   cursor: pointer;
   font-size: 16px;
   display: flex;
@@ -213,6 +212,7 @@ body {
   align-items: center;
   gap: 10px;
   margin-top: 20px;
+  border: 0;
 }
 
 .try-again-container button:hover {
@@ -227,20 +227,30 @@ body {
 
 .fs-wrapper {
   width: 100%;
-  border: 2px solid #ccc;
   padding: 40px 0;
   text-align: center;
-  border-radius: 10px;
+  border-radius: 20px;
+  border: 1px solid black;
+}
+
+.fs-text {
+  margin: 40px 0;
+}
+
+.fs-text-subtext {
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #777;
+  font-weight: 500;
+}
+
+.fs-text-st {
+  font-size: 38px;
+  font-weight: 500;
+  margin-top: -10px;
 }
 
 .fs-subtext {
   font-size: 20px;
-  margin-top: 10px;
   color: #777;
-}
-
-.fs-text {
-  font-size: 40px;
-  margin-top: 10px;
-  font-weight: 500;
 }
