@@ -1190,73 +1190,283 @@ export const data = [
     "answer": true
     },
     {
-        "id": 171,
-        "icon": "kinetics",
-        "chapter": "Kinetyka chemiczna",
-        "question": "Katalizator danej reakcji jest inhibitorem reakcji odwrotnej",
-        "answer": false
-        },
-        {
-        "id": 172,
-        "icon": "kinetics",
-        "chapter": "Kinetyka chemiczna",
-        "question": "Katalizator danej reakcji jest często katalizatorem reakcji odwrotnej",
-        "answer": true
-        },
-        {
-        "id": 173,
-        "icon": "kinetics",
-        "chapter": "Kinetyka chemiczna",
-        "question": "Enzymy są przykładem katalizatorów",
-        "answer": true
-        },
-        {
-        "id": 174,
-        "icon": "kinetics",
-        "chapter": "Kinetyka chemiczna",
-        "question": "Zatrucia katalizatora występują głównie w katalizie homogenicznej",
-        "answer": false
-        },
-        {
-        "id": 175,
-        "icon": "kinetics",
-        "chapter": "Kinetyka chemiczna",
-        "question": "Katalizator nie bierze udziału w rekacji",
-        "answer": false
-        },
-        {
-        "id": 176,
-        "icon": "kinetics",
-        "chapter": "Kinetyka chemiczna",
-        "question": "Kataliza heterogeniczna jest zbyt kosztowna, aby ją stosować w praktyce",
-        "answer": false
-        },
-        {
-        "id": 177,
-        "icon": "kinetics",
-        "chapter": "Kinetyka chemiczna",
-        "question": "Kataliza heterogeniczna stosowana jest do produkcji amoniaku na skalę przmysłową",
-        "answer": true
-        },
-        {
-        "id": 178,
-        "icon": "kinetics",
-        "chapter": "Kinetyka chemiczna",
-        "question": "Złoto katalizuje wszystkie reakcje",
-        "answer": false
-        },
-        {
-        "id": 179,
-        "icon": "kinetics",
-        "chapter": "Kinetyka chemiczna",
-        "question": "Katalizator bierze udział w reakcji, ale nie wchodzi w skład produktów",
-        "answer": true
-        },
-        {
-        "id": 180,
-        "icon": "kinetics",
-        "chapter": "Kinetyka chemiczna",
-        "question": "Szybkość reakcji można zwiększyć naświetlając substraty promieniowaniem o ściśle określonej długości fali",
-        "answer": true
-        },
+    "id": 171,
+    "icon": "kinetics",
+    "chapter": "Kinetyka chemiczna",
+    "question": "Katalizator danej reakcji jest inhibitorem reakcji odwrotnej",
+    "answer": false
+    },
+    {
+    "id": 172,
+    "icon": "kinetics",
+    "chapter": "Kinetyka chemiczna",
+    "question": "Katalizator danej reakcji jest często katalizatorem reakcji odwrotnej",
+    "answer": true
+    },
+    {
+    "id": 173,
+    "icon": "kinetics",
+    "chapter": "Kinetyka chemiczna",
+    "question": "Enzymy są przykładem katalizatorów",
+    "answer": true
+    },
+    {
+    "id": 174,
+    "icon": "kinetics",
+    "chapter": "Kinetyka chemiczna",
+    "question": "Zatrucia katalizatora występują głównie w katalizie homogenicznej",
+    "answer": false
+    },
+    {
+    "id": 175,
+    "icon": "kinetics",
+    "chapter": "Kinetyka chemiczna",
+    "question": "Katalizator nie bierze udziału w rekacji",
+    "answer": false
+    },
+    {
+    "id": 176,
+    "icon": "kinetics",
+    "chapter": "Kinetyka chemiczna",
+    "question": "Kataliza heterogeniczna jest zbyt kosztowna, aby ją stosować w praktyce",
+    "answer": false
+    },
+    {
+    "id": 177,
+    "icon": "kinetics",
+    "chapter": "Kinetyka chemiczna",
+    "question": "Kataliza heterogeniczna stosowana jest do produkcji amoniaku na skalę przmysłową",
+    "answer": true
+    },
+    {
+    "id": 178,
+    "icon": "kinetics",
+    "chapter": "Kinetyka chemiczna",
+    "question": "Złoto katalizuje wszystkie reakcje",
+    "answer": false
+    },
+    {
+    "id": 179,
+    "icon": "kinetics",
+    "chapter": "Kinetyka chemiczna",
+    "question": "Katalizator bierze udział w reakcji, ale nie wchodzi w skład produktów",
+    "answer": true
+    },
+    {
+    "id": 180,
+    "icon": "kinetics",
+    "chapter": "Kinetyka chemiczna",
+    "question": "Szybkość reakcji można zwiększyć naświetlając substraty promieniowaniem o ściśle określonej długości fali",
+    "answer": true
+    },
+    {
+    "id": 181,
+    "icon": "oxidation",
+    "chapter": "Utlenianie i redukcja",
+    "question": "Utleniacz oddaje elektrony",
+    "answer": false
+    },
+    {
+    "id": 182,
+    "icon": "oxidation",
+    "chapter": "Utlenianie i redukcja",
+    "question": "Utleniacz przyjmuje elektrony",
+    "answer": true
+    },
+    {
+    "id": 183,
+    "icon": "oxidation",
+    "chapter": "Utlenianie i redukcja",
+    "question": "Utleniacz zwiększa swój stopień utlenienia",
+    "answer": false
+    },
+    {
+    "id": 184,
+    "icon": "oxidation",
+    "chapter": "Utlenianie i redukcja",
+    "question": "Utleniacz zmniejsza swój stopień utlenienia",
+    "answer": true
+    },
+    {
+    "id": 185,
+    "icon": "oxidation",
+    "chapter": "Utlenianie i redukcja",
+    "question": "Reduktor zmniejsza swój stopień utlenienia",
+    "answer": false
+    },
+    {
+    "id": 186,
+    "icon": "oxidation",
+    "chapter": "Utlenianie i redukcja",
+    "question": "Reduktor zwiększa swój stopień utlenienia",
+    "answer": true
+    },
+    {
+    "id": 187,
+    "icon": "oxidation",
+    "chapter": "Utlenianie i redukcja",
+    "question": "Reduktor oddaje elektrony",
+    "answer": true
+    },
+    {
+    "id": 188,
+    "icon": "oxidation",
+    "chapter": "Utlenianie i redukcja",
+    "question": "Reduktor przyjmuje elektrony",
+    "answer": false
+    },
+    {
+    "id": 189,
+    "icon": "oxidation",
+    "chapter": "Utlenianie i redukcja",
+    "question": "Wszystkie pierwiastki w stanie wolnym są reduktorami",
+    "answer": false
+    },
+    {
+    "id": 190,
+    "icon": "oxidation",
+    "chapter": "Utlenianie i redukcja",
+    "question": "Wszystkie pierwiastki w stanie wolnym mają stopień utlenienia zero",
+    "answer": true
+    },
+    {
+    "id": 191,
+    "icon": "oxidation",
+    "chapter": "Utlenianie i redukcja",
+    "question": "Metale charakteryzują się wysoką elektroujemnością",
+    "answer": false
+    },
+    {
+    "id": 192,
+    "icon": "oxidation",
+    "chapter": "Utlenianie i redukcja",
+    "question": "Woda utleniona może być utleniaczem lub reduktorem",
+    "answer": true
+    },
+    {
+    "id": 193,
+    "icon": "oxidation",
+    "chapter": "Utlenianie i redukcja",
+    "question": "Jeśli zachodzi reakcja utleniania, to musi równocześnie zachodzić redukcja",
+    "answer": true
+    },
+    {
+    "id": 194,
+    "icon": "oxidation",
+    "chapter": "Utlenianie i redukcja",
+    "question": "Jeśli zachodzi reakcja utleniania, to nie może równocześnie zachodzić redukcja",
+    "answer": false
+    },
+    {
+    "id": 195,
+    "icon": "oxidation",
+    "chapter": "Utlenianie i redukcja",
+    "question": "Typowe metale są reduktorami",
+    "answer": true
+    },
+    {
+    "id": 196,
+    "icon": "oxidation",
+    "chapter": "Utlenianie i redukcja",
+    "question": "Typowe metale są utleniaczami",
+    "answer": false
+    },
+    {
+    "id": 197,
+    "icon": "oxidation",
+    "chapter": "Utlenianie i redukcja",
+    "question": "Fluor w związkach ma zawsze stopień utlenienia -1",
+    "answer": true
+    },
+    {
+    "id": 198,
+    "icon": "oxidation",
+    "chapter": "Utlenianie i redukcja",
+    "question": "Tlen w związkach ma zawsze stopień utlenienia -2",
+    "answer": false
+    },
+    {
+    "id": 199,
+    "icon": "oxidation",
+    "chapter": "Utlenianie i redukcja",
+    "question": "Wodór w związkach ma zawsze stopień utlenienia +1",
+    "answer": false
+    },
+    {
+    "id": 200,
+    "icon": "oxidation",
+    "chapter": "Utlenianie i redukcja",
+    "question": "Wodór w związkach z niemetalami ma stopień utlenienia +1",
+    "answer": true
+    },
+    {
+    "id": 201,
+    "icon": "oxidation",
+    "chapter": "Utlenianie i redukcja",
+    "question": "Metale nieutleniające nie roztważają metali",
+    "answer": false
+    },
+    {
+    "id": 202,
+    "icon": "oxidation",
+    "chapter": "Utlenianie i redukcja",
+    "question": "Metale nieutleniające nie roztważają metali szlachetnych",
+    "answer": true
+    },
+    {
+    "id": 203,
+    "icon": "oxidation",
+    "chapter": "Utlenianie i redukcja",
+    "question": "Kwasy utleniające w reakcjach z metalami wydzielają wodór jako jedyny produkt gazowy",
+    "answer": false
+    },
+    {
+    "id": 204,
+    "icon": "oxidation",
+    "chapter": "Utlenianie i redukcja",
+    "question": "Kwasy utleniające w reakcjach z metalami wydzielają inne produkty gazowe niż wodór",
+    "answer": true
+    },
+    {
+    "id": 205,
+    "icon": "oxidation",
+    "chapter": "Utlenianie i redukcja",
+    "question": "Metale szlachetne są silnymi utleniaczami",
+    "answer": false
+    },
+    {
+    "id": 206,
+    "icon": "oxidation",
+    "chapter": "Utlenianie i redukcja",
+    "question": "Kationy metali szlachetnych są silnymi utleniaczami",
+    "answer": true
+    },
+    {
+    "id": 207,
+    "icon": "oxidation",
+    "chapter": "Utlenianie i redukcja",
+    "question": "Chrom (VI) i mangan (VII) w środowisku kwaśnym są utleniaczami",
+    "answer": true
+    },
+    {
+    "id": 208,
+    "icon": "oxidation",
+    "chapter": "Utlenianie i redukcja",
+    "question": "Jon chromianowy (III) w środowisku zasadowym jest silnym utleniaczem",
+    "answer": false
+    },
+    {
+    "id": 209,
+    "icon": "oxidation",
+    "chapter": "Utlenianie i redukcja",
+    "question": "W reakcji NH₄⁺ + NO₂⁻ = H₂O + N₂ azot jest równocześnie utleniaczem i reduktorem",
+    "answer": true
+    },
+    {
+    "id": 210,
+    "icon": "oxidation",
+    "chapter": "Utlenianie i redukcja",
+    "question": "W reakcji H₂O₂ = H₂O + ½O₂ wodór zmienia swój stopień utlenienia",
+    "answer": true
+    },
 ];
