@@ -1469,4 +1469,634 @@ export const data = [
     "question": "W reakcji H₂O₂ = H₂O + ½O₂ wodór zmienia swój stopień utlenienia",
     "answer": true
     },
+    {
+    "id": 211,
+    "icon": "electro",
+    "chapter": "Elektrochemia",
+    "question": "Elektroliza zachodzi pod wpływem prądu",
+    "answer": true
+    },
+    {
+    "id": 212,
+    "icon": "electro",
+    "chapter": "Elektrochemia",
+    "question": "Elektroliza zachodzi samorzutnie pod wpływem rozpuszczalnika",
+    "answer": false
+    },
+    {
+    "id": 213,
+    "icon": "electro",
+    "chapter": "Elektrochemia",
+    "question": "Dysocjacja elektrolityczna zachodzi samorzutnie pod wpływem rozpuszczalnika",
+    "answer": true
+    },
+    {
+    "id": 214,
+    "icon": "electro",
+    "chapter": "Elektrochemia",
+    "question": "Dysocjacja elektrolityczna zachodzi pod wpływem prądu",
+    "answer": false
+    },
+    {
+    "id": 215,
+    "icon": "electro",
+    "chapter": "Elektrochemia",
+    "question": "Na anodzie zachodzi utlenianie",
+    "answer": true
+    },
+    {
+    "id": 216,
+    "icon": "electro",
+    "chapter": "Elektrochemia",
+    "question": "Na anodzie zachodzi redukcja",
+    "answer": false
+    },
+    {
+    "id": 217,
+    "icon": "electro",
+    "chapter": "Elektrochemia",
+    "question": "Na katodzie zachodzi redukcja",
+    "answer": true
+    },
+    {
+    "id": 218,
+    "icon": "electro",
+    "chapter": "Elektrochemia",
+    "question": "Na katodzie zachodzi utlenianie",
+    "answer": false
+    },
+    {
+    "id": 219,
+    "icon": "electro",
+    "chapter": "Elektrochemia",
+    "question": "W ogniwie stężeniowym katodą jest półogniwo o wyższym stężeniu",
+    "answer": true
+    },
+    {
+    "id": 220,
+    "icon": "electro",
+    "chapter": "Elektrochemia",
+    "question": "W ogniwie stężeniowym katodą jest półogniwo o niższym stężeniu",
+    "answer": false
+    },
+    {
+    "id": 221,
+    "icon": "electro",
+    "chapter": "Elektrochemia",
+    "question": "W ogniwie złożonym z dwóch elektrod normalnych anodą jest metal o wyższym potencjale normalnym",
+    "answer": false
+    },
+    {
+    "id": 222,
+    "icon": "electro",
+    "chapter": "Elektrochemia",
+    "question": "W ogniwie złożonym z dwóch elektrod normalnych anodą jest metal o niższym potencjale normalnym",
+    "answer": true
+    },
+    {
+    "id": 223,
+    "icon": "electro",
+    "chapter": "Elektrochemia",
+    "question": "Potencjał elektrody srebowej jest tym wyższy im wyższe stężenie KCl",
+    "answer": false
+    },
+    {
+    "id": 224,
+    "icon": "electro",
+    "chapter": "Elektrochemia",
+    "question": "Potencjał elektrody srebowej jest tym niższy im wyższe stężenie KCl",
+    "answer": true
+    },
+    {
+    "id": 225,
+    "icon": "electro",
+    "chapter": "Elektrochemia",
+    "question": "Ogniwa stężeniowe mają szerokie zastosowanie praktyczne",
+    "answer": false
+    },
+    {
+    "id": 226,
+    "icon": "electro",
+    "chapter": "Elektrochemia",
+    "question": "Okno elektrochemiczne wody ma szerokość 1,23V",
+    "answer": true
+    },
+    {
+    "id": 227,
+    "icon": "electro",
+    "chapter": "Elektrochemia",
+    "question": "W akumulatorze ołowiowym wykorzystuje się duże nadnapięcie wydzielania wodoru na ołowiu",
+    "answer": true
+    },
+    {
+    "id": 228,
+    "icon": "electro",
+    "chapter": "Elektrochemia",
+    "question": "W akumulatorze ołowiowym gęstość elektrolitu rośnie w miarę rozładowania",
+    "answer": false
+    },
+    {
+    "id": 229,
+    "icon": "electro",
+    "chapter": "Elektrochemia",
+    "question": "W akumulatorze ołowiowym gęstość elektrolitu maleje w miarę rozładowania",
+    "answer": true
+    },
+    {
+    "id": 230,
+    "icon": "electro",
+    "chapter": "Elektrochemia",
+    "question": "Akumulator ołowiowy ma stałą SEM niezależnie od stopnia naładowania",
+    "answer": false
+    },
+    {
+    "id": 231,
+    "icon": "electro",
+    "chapter": "Elektrochemia",
+    "question": "W akumulatorze ołowiowym SEM spada w miarę rozładowania",
+    "answer": true
+    },
+    {
+    "id": 232,
+    "icon": "electro",
+    "chapter": "Elektrochemia",
+    "question": "PbO₂ + Pb + 2H₂SO₄ → 2PbSO₄ + 2H₂O to sumaryczna reakcja zachodząca przy ładowaniu",
+    "answer": false
+    },
+    {
+    "id": 233,
+    "icon": "electro",
+    "chapter": "Elektrochemia",
+    "question": "PbO₂ + Pb + 2H₂SO₄ → 2PbSO₄ + 2H₂O to sumaryczna reakcja zachodząca przy rozładowaniu",
+    "answer": true
+    },
+    {
+    "id": 234,
+    "icon": "electro",
+    "chapter": "Elektrochemia",
+    "question": "E = E₀ + 59 mV * log[Cu²⁺] - tylko w temperaturze 25°C",
+    "answer": false
+    },
+    {
+    "id": 235,
+    "icon": "electro",
+    "chapter": "Elektrochemia",
+    "question": "E = E₀ + 59 mV * log[Cu²⁺] - w dowolnej temperaturze",
+    "answer": false
+    },
+    {
+    "id": 236,
+    "icon": "electro",
+    "chapter": "Elektrochemia",
+    "question": "E = E₀ + 59 mV * log[Ag⁺] - tylko w temperaturze 25°C",
+    "answer": true
+    },
+    {
+    "id": 237,
+    "icon": "electro",
+    "chapter": "Elektrochemia",
+    "question": "E = E₀ + 59 mV * ln[Ag⁺] - tylko w temperaturze 25°C",
+    "answer": false
+    },
+    {
+    "id": 238,
+    "icon": "electro",
+    "chapter": "Elektrochemia",
+    "question": "Wysoki potencjał normalny oznacza, że mamy do czynienia z silnym utleniaczem i słabym reduktorem",
+    "answer": true
+    },
+    {
+    "id": 239,
+    "icon": "electro",
+    "chapter": "Elektrochemia",
+    "question": "Niski potencjał normalny oznacza, że mamy do czynienia ze słabym utleniaczem i silnym reduktorem",
+    "answer": true
+    },
+    {
+    "id": 240,
+    "icon": "electro",
+    "chapter": "Elektrochemia",
+    "question": "Potencjał normalny jest równy energii Gibbsa reakcji redukcji",
+    "answer": false
+    },
+    {
+    "id": 241,
+    "icon": "adsorption",
+    "chapter": "Adsorpcja, koloidy",
+    "question": "Prężność pary nad małą kroplą jest większa niż nad płaską powierzchnią",
+    "answer": true
+    },
+    {
+    "id": 242,
+    "icon": "adsorption",
+    "chapter": "Adsorpcja, koloidy",
+    "question": "Prężność pary nad małą kroplą jest mniejsza niż nad płaską powierzchnią",
+    "answer": false
+    },
+    {
+    "id": 243,
+    "icon": "adsorption",
+    "chapter": "Adsorpcja, koloidy",
+    "question": "Rozpuszczalność małych kryształów jest większa niż dużych",
+    "answer": true
+    },
+    {
+    "id": 244,
+    "icon": "adsorption",
+    "chapter": "Adsorpcja, koloidy",
+    "question": "Rozpuszczalność małych kryształów jest większa niż dużych",
+    "answer": false
+    },
+    {
+    "id": 245,
+    "icon": "adsorption",
+    "chapter": "Adsorpcja, koloidy",
+    "question": "Poziom cieczy w kapilarze jest wyższy niż w naczyniu, do którego ją zanurzono",
+    "answer": false
+    },
+    {
+    "id": 246,
+    "icon": "adsorption",
+    "chapter": "Adsorpcja, koloidy",
+    "question": "Poziom cieczy w kapilarze jest niższy niż w naczyniu, do którego ją zanurzono",
+    "answer": false
+    },
+    {
+    "id": 247,
+    "icon": "adsorption",
+    "chapter": "Adsorpcja, koloidy",
+    "question": "Substancje zwiększające napięcie powierzchniowe wykazują ujemną adsorpcję",
+    "answer": true
+    },
+    {
+    "id": 248,
+    "icon": "adsorption",
+    "chapter": "Adsorpcja, koloidy",
+    "question": "Substancje zmniejszające napięcie powierzchniowe wykazują dodatnią adsorpcję",
+    "answer": true
+    },
+    {
+    "id": 249,
+    "icon": "adsorption",
+    "chapter": "Adsorpcja, koloidy",
+    "question": "Mydła tworzą z jonami Ca²⁺ trudno rozpuszczalny osad",
+    "answer": true
+    },
+    {
+    "id": 250,
+    "icon": "adsorption",
+    "chapter": "Adsorpcja, koloidy",
+    "question": "Dla kropli o peomieniu >10⁻¹⁰m zmiana prężności pary spowodowana krzywizną jest nieznaczna",
+    "answer": false
+    },
+    {
+    "id": 251,
+    "icon": "adsorption",
+    "chapter": "Adsorpcja, koloidy",
+    "question": "Dla kropli o peomieniu >10⁻⁷m zmiana prężności pary spowodowana krzywizną jest nieznaczna",
+    "answer": true
+    },
+    {
+    "id": 252,
+    "icon": "adsorption",
+    "chapter": "Adsorpcja, koloidy",
+    "question": "Napięcie powierzchmiowe to siła działająca na jednostkę powierzchni",
+    "answer": false
+    },
+    {
+    "id": 253,
+    "icon": "adsorption",
+    "chapter": "Adsorpcja, koloidy",
+    "question": "Napięcie powierzchmiowe to siła działająca na jednostkę długości",
+    "answer": true
+    },
+    {
+    "id": 254,
+    "icon": "adsorption",
+    "chapter": "Adsorpcja, koloidy",
+    "question": "Napięcie powierzchniowe to energia przypadająca na jednostkę długości",
+    "answer": false
+    },
+    {
+    "id": 255,
+    "icon": "adsorption",
+    "chapter": "Adsorpcja, koloidy",
+    "question": "Koloidalny Agl ulega samorzutnie agregacji",
+    "answer": true
+    },
+    {
+    "id": 256,
+    "icon": "adsorption",
+    "chapter": "Adsorpcja, koloidy",
+    "question": "Koloidalny Agl nie ulega samorzutnie agregacji",
+    "answer": false
+    },
+    {
+    "id": 257,
+    "icon": "adsorption",
+    "chapter": "Adsorpcja, koloidy",
+    "question": "Koagulacja koloidów liofobowych jest szybka, gdy potencjał elektrokinetyczny jest wysoki",
+    "answer": false
+    },
+    {
+    "id": 258,
+    "icon": "adsorption",
+    "chapter": "Adsorpcja, koloidy",
+    "question": "Koagulacja koloidów liofobowych jest powolna, gdy potencjał elektrokinetyczny jest wysoki",
+    "answer": true
+    },
+    {
+    "id": 259,
+    "icon": "adsorption",
+    "chapter": "Adsorpcja, koloidy",
+    "question": "Roztwory koloidalne są nieprzezroczyste",
+    "answer": false
+    },
+    {
+    "id": 260,
+    "icon": "adsorption",
+    "chapter": "Adsorpcja, koloidy",
+    "question": "Roztwory koloidalne mogą być przezroczyste",
+    "answer": true
+    },
+    {
+    "id": 261,
+    "icon": "adsorption",
+    "chapter": "Adsorpcja, koloidy",
+    "question": "Efekt Tyndalla pozwala odróżnić roztwór rzeczywisty od koloidu",
+    "answer": true
+    },
+    {
+    "id": 262,
+    "icon": "adsorption",
+    "chapter": "Adsorpcja, koloidy",
+    "question": "Efekt Tyndalla pozwala odróżnić koloidy liofilowe od liofobowych",
+    "answer": false
+    },
+    {
+    "id": 263,
+    "icon": "adsorption",
+    "chapter": "Adsorpcja, koloidy",
+    "question": "W micelach łańcuchy węglowodorowe skierowane są do zewnątrz",
+    "answer": false
+    },
+    {
+    "id": 264,
+    "icon": "adsorption",
+    "chapter": "Adsorpcja, koloidy",
+    "question": "W micelach łańcuchy węglowodorowe skierowane są do wewnątrz",
+    "answer": true
+    },
+    {
+    "id": 265,
+    "icon": "adsorption",
+    "chapter": "Adsorpcja, koloidy",
+    "question": "Maksimum elektrokapilarne rtęci odpowiada zerowemu ładunkowi powierzchni",
+    "answer": true
+    },
+    {
+    "id": 266,
+    "icon": "adsorption",
+    "chapter": "Adsorpcja, koloidy",
+    "question": "Maksimum elektrokapilarne rtęci odpowiada maksymalnemu ładunkowi powierzchni",
+    "answer": false
+    },
+    {
+    "id": 267,
+    "icon": "adsorption",
+    "chapter": "Adsorpcja, koloidy",
+    "question": "Maksimum elektrokapilarne rtęci odpowiada maksimum napięcia powierzchniowego",
+    "answer": true
+    },
+    {
+    "id": 268,
+    "icon": "adsorption",
+    "chapter": "Adsorpcja, koloidy",
+    "question": "Potencjał maksimum elektrokapilarnego rtęci nie zależy od rodzaju elektrolitu",
+    "answer": false
+    },
+    {
+    "id": 269,
+    "icon": "adsorption",
+    "chapter": "Adsorpcja, koloidy",
+    "question": "Potencjał maksimum elektrokapilarnego rtęci zależy od rodzaju elektrolitu",
+    "answer": true
+    },
+    {
+    "id": 270,
+    "icon": "adsorption",
+    "chapter": "Adsorpcja, koloidy",
+    "question": "Środki powierzchniowo czynne to estry gliceryny i wyższych kwasów tłuszczowych",
+    "answer": false
+    },
+    {
+    "id": 271,
+    "icon": "acid",
+    "chapter": "Kwasy i zasady",
+    "question": "Pomiar pH za pomocą elektrody wodorowej jest dokładny, ale niezbyt praktyczny",
+    "answer": true
+    },
+    {
+    "id": 272,
+    "icon": "acid",
+    "chapter": "Kwasy i zasady",
+    "question": "Pomiar pH za pomocą elektrody wodorowej jest praktyczny, ale niezbyt dokładny",
+    "answer": false
+    },
+    {
+    "id": 273,
+    "icon": "acid",
+    "chapter": "Kwasy i zasady",
+    "question": "Pomiar pH za pomocą papierków wskaźnikowych jest praktyczny, ale niezbyt dokładny",
+    "answer": true
+    },
+    {
+    "id": 274,
+    "icon": "acid",
+    "chapter": "Kwasy i zasady",
+    "question": "Pomiar pH za pomocą papierków wskaźnikowych jest dokładny, ale niezbyt praktyczny",
+    "answer": false
+    },
+    {
+    "id": 275,
+    "icon": "acid",
+    "chapter": "Kwasy i zasady",
+    "question": "Potencjał elektrody szklanej jest liniową funkcją pH",
+    "answer": true
+    },
+    {
+    "id": 276,
+    "icon": "acid",
+    "chapter": "Kwasy i zasady",
+    "question": "Logarytm potencjału elektrody szklanej jest liniową funkcją pH",
+    "answer": false
+    },
+    {
+    "id": 277,
+    "icon": "acid",
+    "chapter": "Kwasy i zasady",
+    "question": "pH roztworu NaOH o stężeniu 10⁻⁵ mol/dm³≈9",
+    "answer": true
+    },
+    {
+    "id": 278,
+    "icon": "acid",
+    "chapter": "Kwasy i zasady",
+    "question": "pH roztworu NaOH o stężeniu 10⁻⁵ mol/dm³≈5",
+    "answer": false
+    },
+    {
+    "id": 279,
+    "icon": "acid",
+    "chapter": "Kwasy i zasady",
+    "question": "pH roztworu kwasu octowego o stężeniu 10⁻⁸ mol/dm³<7",
+    "answer": true
+    },
+    {
+    "id": 280,
+    "icon": "acid",
+    "chapter": "Kwasy i zasady",
+    "question": "pH roztworu kwasu octowego o stężeniu 10⁻⁸ mol/dm³>7",
+    "answer": false
+    },
+    {
+    "id": 281,
+    "icon": "acid",
+    "chapter": "Kwasy i zasady",
+    "question": "pH roztworu amoniaku o stężeniu 10⁻⁸ mol/dm³>7",
+    "answer": true
+    },
+    {
+    "id": 282,
+    "icon": "acid",
+    "chapter": "Kwasy i zasady",
+    "question": "pH roztworu amoniaku o stężeniu 10⁻⁸ mol/dm³<7",
+    "answer": false
+    },
+    {
+    "id": 283,
+    "icon": "acid",
+    "chapter": "Kwasy i zasady",
+    "question": "pH roztworu kwasu rośnie w miarę rozcieńczenia",
+    "answer": true
+    },
+    {
+    "id": 284,
+    "icon": "acid",
+    "chapter": "Kwasy i zasady",
+    "question": "pH roztworu zasady rośnie w miarę rozcieńczenia",
+    "answer": false
+    },
+    {
+    "id": 285,
+    "icon": "acid",
+    "chapter": "Kwasy i zasady",
+    "question": "pH roztworu kwasu maleje w miarę rozcieńczenia",
+    "answer": false
+    },
+    {
+    "id": 286,
+    "icon": "acid",
+    "chapter": "Kwasy i zasady",
+    "question": "pH roztworu zasady maleje w miarę rozcieńczenia",
+    "answer": true
+    },
+    {
+    "id": 287,
+    "icon": "acid",
+    "chapter": "Kwasy i zasady",
+    "question": "pH roztworu NaCl rośnie w miarę rozcieńczenia",
+    "answer": false
+    },
+    {
+    "id": 288,
+    "icon": "acid",
+    "chapter": "Kwasy i zasady",
+    "question": "pH roztworu NaCl nie zmienia się przy rozcieńczenia",
+    "answer": true
+    },
+    {
+    "id": 289,
+    "icon": "acid",
+    "chapter": "Kwasy i zasady",
+    "question": "pH roztworu NaCN nie zmienia się przy rozcieńczenia",
+    "answer": false
+    },
+    {
+    "id": 290,
+    "icon": "acid",
+    "chapter": "Kwasy i zasady",
+    "question": "pH roztworu NaCN maleje przy rozcieńczenia",
+    "answer": true
+    },
+    {
+    "id": 291,
+    "icon": "acid",
+    "chapter": "Kwasy i zasady",
+    "question": "pH roztworu NH₄Cl maleje przy rozcieńczenia",
+    "answer": false
+    },
+    {
+    "id": 292,
+    "icon": "acid",
+    "chapter": "Kwasy i zasady",
+    "question": "pH roztworu NH₄Cl rośnie przy rozcieńczenia",
+    "answer": true
+    },
+    {
+    "id": 293,
+    "icon": "acid",
+    "chapter": "Kwasy i zasady",
+    "question": "Dodajemy NaOH do roztworu HCl. pH rośnie najpierw powoli, potem szybko, potem znów powoli",
+    "answer": true
+    },
+    {
+    "id": 294,
+    "icon": "acid",
+    "chapter": "Kwasy i zasady",
+    "question": "Dodajemy NaOH do roztworu kwasu octowego. pH rośnie najpierw powoli, potem szybko, potem znów powoli",
+    "answer": false
+    },
+    {
+    "id": 295,
+    "icon": "acid",
+    "chapter": "Kwasy i zasady",
+    "question": "Dodajemy NaOH do roztworu kwasu octowego. pH rośnie, potem jest prawie stałe, potem znów rośnie",
+    "answer": true
+    },
+    {
+    "id": 296,
+    "icon": "acid",
+    "chapter": "Kwasy i zasady",
+    "question": "Dodajemy NaOH do roztworu HCl. pH rośnie, potem jest prawie stałe, potem znów rośnie",
+    "answer": false
+    },
+    {
+    "id": 297,
+    "icon": "acid",
+    "chapter": "Kwasy i zasady",
+    "question": "pH roztworu buforowego nie zmienia się przy rozcieńczeniu",
+    "answer": true
+    },
+    {
+    "id": 298,
+    "icon": "acid",
+    "chapter": "Kwasy i zasady",
+    "question": "pH roztworu buforowego maleje do połowy przy dwukrotnym rozcieńczeniu",
+    "answer": false
+    },
+    {
+    "id": 299,
+    "icon": "acid",
+    "chapter": "Kwasy i zasady",
+    "question": "Stężenie jonów OH⁻ w 1 molowym HCl wynosi ok. 10⁻⁷ mol/dm³",
+    "answer": false
+    },
+    {
+    "id": 300,
+    "icon": "acid",
+    "chapter": "Kwasy i zasady",
+    "question": "Stężenie jonów OH⁻ w 1 molowym HCl wynosi ok. 10⁻¹⁴ mol/dm³",
+    "answer": true
+    },
 ];
